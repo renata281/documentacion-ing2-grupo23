@@ -1,0 +1,4 @@
+LINKS DE REPOSITORIOS EN GITHUB
+- Frontend: https://github.com/juanmatiaspinat/nortech-frontend
+- Backend: https://github.com/juanmatiaspinat/nortech-backend-2026
+- Documentación: https://github.com/Renata281/Documentacion-Ing2-Grupo23.git
